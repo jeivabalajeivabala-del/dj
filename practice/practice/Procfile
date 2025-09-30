@@ -1,0 +1,1 @@
+web: gunicorn pratice.wsgi:application
